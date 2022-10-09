@@ -1,0 +1,11 @@
+ID,UserName,password,Type,level
+1,vinojith,ea52e5d6fbbdd756698e2a86562ea3ef,PATIENT,4
+2,vinojith2,ea52e5d6fbbdd756698e2a86562ea3ef,PATIENT,4
+3,Vinojith233,ea52e5d6fbbdd756698e2a86562ea3ef,PATIENT,4
+4,ABD,ea52e5d6fbbdd756698e2a86562ea3ef,DOCTOR,1
+5,Nurse1,ea52e5d6fbbdd756698e2a86562ea3ef,NURSE,2
+6,Nurse@23,ea52e5d6fbbdd756698e2a86562ea3ef,NURSE,2
+7,Vinojith,ea52e5d6fbbdd756698e2a86562ea3ef,ADMIN,0
+8,Krishna,ea52e5d6fbbdd756698e2a86562ea3ef,Pharmacist,3
+9,Vino1,ea52e5d6fbbdd756698e2a86562ea3ef,PATIENT,4
+
